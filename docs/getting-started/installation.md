@@ -6,7 +6,7 @@
 The easiest way to install Xpoz CLI:
 
 ```bash
-curl -fsSL https://get.xpoz.xyz/install.sh | bash
+curl -fsSL https://cli.xpoz.xyz/install.sh | bash
 ```
 ### This script will:
 
